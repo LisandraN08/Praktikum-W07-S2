@@ -45,8 +45,6 @@ namespace Praktikum_W07_S2
                 }
             }
             lblOutput.Text = teksOutput;
-        
-
         }
     }
 }
